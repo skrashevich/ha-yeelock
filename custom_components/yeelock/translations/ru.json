@@ -1,0 +1,26 @@
+{
+	"config": {
+		"abort": {
+			"already_configured": "Устройство уже настроено",
+			"no_devices_found": "В сети не найдены устройства"
+		},
+		"error": {
+			"cannot_connect": "Не удалось подключиться",
+			"invalid_auth": "Недействительная аутентификация",
+			"unknown": "Неожиданная ошибка"
+		},
+		"step": {
+			"cloud": {
+				"title": "Yeelock",
+				"description": "Сначала устройства должны быть настроены в приложении Yeelock (требуется учётная запись).",
+				"data": {
+					"email": "E-Mail (логин)",
+					"password": "Пароль",
+					"name": "Имя",
+					"mac": "MAC-адрес",
+					"api_key": "API-ключ"
+				}
+			}
+		}
+	}
+}
